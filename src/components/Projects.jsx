@@ -19,7 +19,7 @@ const projects = [
   {
     image:project3,
     title: "Modern Housing Project",
-    location: "Coimbatore",
+    location: "Chennai",
   },
   {
     image:project4,
@@ -29,7 +29,7 @@ const projects = [
   {
     image:project5,
     title: "Modern Housing Project",
-    location: "Coimbatore",
+    location: "Chennai",
   },
   {
     image:project6,
