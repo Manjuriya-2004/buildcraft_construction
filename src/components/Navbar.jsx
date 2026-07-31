@@ -75,6 +75,14 @@ function Navbar() {
                 Projects
               </a>
             </li>
+            <li>
+  <a
+    href="#site-works"
+    className="hover:text-green-400 transition duration-300"
+  >
+    Site Works
+  </a>
+</li>
 
             <li>
               <a

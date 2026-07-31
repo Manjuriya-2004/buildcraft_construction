@@ -5,6 +5,9 @@ import project4 from "../assets/projects/project4.png";
 import project2 from "../assets/projects/project2.png";
 import project5 from "../assets/projects/project5.png";
 import project6 from "../assets/projects/project6.png";
+import project7 from "../assets/projects/project7.png";
+// import project8 from "../assets/projects/project8.png";
+import project9 from "../assets/projects/project9.png";
 const projects = [
   {
     image:project1,
@@ -35,6 +38,18 @@ const projects = [
     image:project6,
     title: "Luxury Independent House",
     location: "Chittalapakkaam-Chennai",
+  },
+  {
+    image:project7,
+    title:"Independent House",
+    location: "Chennai",
+  },
+  
+  {
+    image:project9,
+    title: "Modern Housing Project",
+    location: "Coimbatore",
+    
   },
 ];
 

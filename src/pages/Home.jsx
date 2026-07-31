@@ -11,6 +11,7 @@ import Contact from "../components/Contact"
 import Footer from "../components/Footer";
 import WhatsAppButton from "../components/WhatsAppButton";
 import ScrollTop from "../components/ScrollTop";
+import SiteWorks from "../components/SiteWorks";
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
       <About/>
       <Services/>
       <Projects/>
+      <SiteWorks/>
       <WhyChooseUs/>
       <Stats/>
       <Testimonials/>
